@@ -1,0 +1,18 @@
+---
+title: "SGY ADTA"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+![](images/WhatsApp Image 2023-12-07 at 20.30.55_ed6a1281.jpg){fig-align="center" width="356"}
+
+Srikanth Goud Yerrola is a committed student at the University of North Texas seeking an advanced Data Analytics Master's degree. With a solid basis in marketing sales analysis, he sharpened his talents as a process associate at Genpact for 14 months. In the field of analytics, Srikanth is passionate about harnessing data-driven insights to make educated decisions and deliver effective results. His academic achievements and work experience demonstrate a dedication to excelling in the dynamic field of data analysis and interpretation.
+
+SkillS: Programming languages include Python, R, and SQL, Tableau and Power BI are two data visualization tools.

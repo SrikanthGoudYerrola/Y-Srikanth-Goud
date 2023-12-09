@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SGY ADTA",
+    "section": "",
+    "text": "Srikanth Goud Yerrola is a committed student at the University of North Texas seeking an advanced Data Analytics Master’s degree. With a solid basis in marketing sales analysis, he sharpened his talents as a process associate at Genpact for 14 months. In the field of analytics, Srikanth is passionate about harnessing data-driven insights to make educated decisions and deliver effective results. His academic achievements and work experience demonstrate a dedication to excelling in the dynamic field of data analysis and interpretation.\nSkillS: Programming languages include Python, R, and SQL, Tableau and Power BI are two data visualization tools.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nDec 8, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nDec 5, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Blog.html",
+    "href": "Blog.html",
+    "title": "SGY ADTA",
+    "section": "",
+    "text": "Implementing Simple Linear Regression in R\nLinear regression in R is accomplished with the lm() function, which stands for “linear model.” Let’s look at how to use a sample dataset to construct a simple linear regression.\nStep 1: Data Loading and Exploration\nWe’ll utilize a sample dataset of data for this demonstration.csv file with two variables: X as independent variable and Y as dependent variable.\n\nStep 2: Data Visualization Visualizing the data before applying linear regression aids in understanding the relationship between variables.\n\nStep 3: Linear Model Fit Let’s now design a linear regression model based on X to predict Y.\n\nStep 4: Create a Regression Line On the scatter plot, draw the regression line as follows.\n\nStep 5: Making Prognoses The model can be used to forecast fresh data:\n\nConclusion\nIt is simple to implement linear regression in R, allowing us to analyze the relationship between variables, make predictions, and gain important insights from the data."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "SGY ADTA",
+    "section": "",
+    "text": "https://drive.google.com/file/d/1ItCtCZUl4MAaG729TzsQuMRfixjJM_jF/view?usp=drive_link"
+  }
+]
